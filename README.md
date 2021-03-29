@@ -6,6 +6,9 @@ Fingerprint Authentication using Android Biometric API
 
 [Facebook](https://www.facebook.com/androidtutorialshub)
 
+[LinkedIn](https://www.linkedin.com/groups/10313749/)
+
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/AndroidTutorialsHub)
 
 <img src="http://www.androidtutorialshub.com/wp-content/uploads/2021/03/e6098b23-f6d4-4eac-94cd.png" width="480" height="800">
