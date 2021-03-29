@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">Biometric Authentication</string>
-    <string name="txt_login">Login</string>
 </resources>
