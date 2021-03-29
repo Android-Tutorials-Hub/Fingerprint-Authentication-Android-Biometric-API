@@ -9,9 +9,8 @@ Fingerprint Authentication using Android Biometric API
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/AndroidTutorialsHub)
 
 <img src="http://www.androidtutorialshub.com/wp-content/uploads/2021/03/e6098b23-f6d4-4eac-94cd.png" width="480" height="800">
-![Main Screen](http://www.androidtutorialshub.com/wp-content/uploads/2021/03/e6098b23-f6d4-4eac-94cd.png){:height="480px" width="800px"}
-![Fingerprint Authentication](http://www.androidtutorialshub.com/wp-content/uploads/2021/03/1e87ca70-04c7-45da-921e-760c491fad6c.png)
-![Fingerprint + PIN Authentication](http://www.androidtutorialshub.com/wp-content/uploads/2021/03/fe6dca56-3e07-4544-bfac-cae6ec9fb66e.png)
-![Biometric Authentication](http://www.androidtutorialshub.com/wp-content/uploads/2021/03/biometric_auth.gif)
+<img src="http://www.androidtutorialshub.com/wp-content/uploads/2021/03/1e87ca70-04c7-45da-921e-760c491fad6c.png" width="480" height="800">
+<img src="http://www.androidtutorialshub.com/wp-content/uploads/2021/03/fe6dca56-3e07-4544-bfac-cae6ec9fb66e.png" width="480" height="800">
+<img src="http://www.androidtutorialshub.com/wp-content/uploads/2021/03/biometric_auth.gif">
 
 
